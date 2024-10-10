@@ -158,7 +158,7 @@ with col2:
                     <div class="movie-title">{movie_title}</div>
                     <div class="movie-info">
                         <strong>Genres:</strong> {genres.replace('|', ', ')}<br>
-                        <strong>Similarity Score:</strong> {similarity_score:.2f}
+                        <strong></strong>
                     </div>
                     <div style="clear:both;"></div>
                 </div>
